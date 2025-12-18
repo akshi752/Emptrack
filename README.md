@@ -43,7 +43,7 @@ Auto-generated logs for employee actions (addition, deletion, leave approval/rej
 
 Helps track all key administrative activities
 
-![EmpTrack Dashboard](screenshots/log.png)
+![EmpTrack Dashboard](screenshots/logs.png)
 
 ## Tech Stack
 
